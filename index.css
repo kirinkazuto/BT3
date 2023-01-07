@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+input {
+  border-radius: 10px;
+  width: 200px;
+  background: rgb(255, 176, 176);
+}
+
+.err {
+  color: rgb(255, 176, 176);
+}
+
+button {
+  width: 200px;
+  border-radius: 10px;
+  background: rgb(0, 0, 0);
+  color: white;
+}
